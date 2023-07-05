@@ -1,0 +1,19 @@
+input{
+    /* display:flex; */
+    margin:5px;
+    
+
+}
+.label{
+    display: block;
+}
+.search{
+    size:auto;
+    height: 30px;
+    border:1px solid black;
+}
+.checkbox{
+    height:20px;
+    width:30px;
+    border:1px solid black;
+}
